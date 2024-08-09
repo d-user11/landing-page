@@ -154,3 +154,29 @@ button {
     font-weight: 800;
     font-size: 20px;
 }
+
+.call-to-action-section {
+    padding: 10% 20%;
+}
+
+.container {
+    background-color: #3882f6;
+    border-radius: 10px;
+    color: #fff;
+    display: flex;
+    padding: 5% 10%;
+    align-items: center;
+}
+
+.container button {
+    margin-left: auto;
+    border: 3px solid #fff;
+}
+
+.container .text .big {
+    font-weight: 900;
+}
+
+.container .text .small {
+    color: #e5e7eb;
+}
