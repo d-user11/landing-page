@@ -180,3 +180,12 @@ button {
 .container .text .small {
     color: #e5e7eb;
 }
+
+/* footer section */
+
+footer {
+    text-align: center;
+    color: #e5e7eb;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
